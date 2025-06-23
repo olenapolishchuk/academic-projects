@@ -32,8 +32,8 @@ This was a collaborative project. My contributions included:
 
 ## Files
 
-- `dataScenario2v3.mat`: Raw input data (signal samples).
-- `traffic_classification.mat`: Contains preprocessing and model training script.
+- `dataScenario2v3.7z`: Raw input data (signal samples).
+- `traffic_classification.m`: Contains preprocessing and model training script.
 - `report.pdf`: Presentation of project results.
 
 ## Tools
